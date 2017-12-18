@@ -1,0 +1,6 @@
+{
+    "require": {
+        "qcloud/weapp-sdk": "*",
+        "chriskacerguis/codeigniter-restserver": "^3.0"
+    }
+}
